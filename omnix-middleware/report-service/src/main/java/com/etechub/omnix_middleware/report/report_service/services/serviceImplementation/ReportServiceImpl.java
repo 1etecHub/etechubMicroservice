@@ -1,11 +1,12 @@
 package com.etechub.omnix_middleware.report.report_service.services.serviceImplementation;
 
 
-import com.etechub.omnix_middleware.commons.middle_ware_commons.dtos.request.ReportRequest;
-import com.etechub.omnix_middleware.commons.middle_ware_commons.dtos.response.ReportResponse;
-import com.etechub.omnix_middleware.commons.middle_ware_commons.models.Report;
+
 import com.etechub.omnix_middleware.report.report_service.repositories.ReportRepo;
 import com.etechub.omnix_middleware.report.report_service.services.ReportService;
+import com.etechub.omnixmiddleware.middlewarecommons.dtos.request.ReportRequest;
+import com.etechub.omnixmiddleware.middlewarecommons.dtos.response.ReportResponse;
+import com.etechub.omnixmiddleware.middlewarecommons.models.Report;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

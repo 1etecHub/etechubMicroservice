@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<packaging>jar</packaging>
-	<groupId>com.etechub</groupId>
-	<artifactId>middle-ware-commons</artifactId>
+	<groupId>com.etechub.omnix-middleware</groupId>
+	<artifactId>middleware-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>middle-ware-commons</name>
 	<description>omnix-middleware commons</description>

@@ -1,8 +1,8 @@
 package com.etechub.omnix_middleware.report.report_service.controller;
 
-import com.etechub.omnix_middleware.commons.middle_ware_commons.dtos.request.ReportRequest;
-import com.etechub.omnix_middleware.commons.middle_ware_commons.dtos.response.ApiResponse;
-import com.etechub.omnix_middleware.commons.middle_ware_commons.dtos.response.ReportResponse;
+import com.etechub.omnixmiddleware.middlewarecommons.dtos.request.ReportRequest;
+import com.etechub.omnixmiddleware.middlewarecommons.dtos.response.ApiResponse;
+import com.etechub.omnixmiddleware.middlewarecommons.dtos.response.ReportResponse;
 import com.etechub.omnix_middleware.report.report_service.services.ReportService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/reports")
+@RequestMapping("/api/report")
 @RequiredArgsConstructor
 public class ReportController {
 

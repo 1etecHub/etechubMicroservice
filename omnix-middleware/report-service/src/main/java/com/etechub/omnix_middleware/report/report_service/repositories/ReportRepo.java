@@ -1,6 +1,6 @@
 package com.etechub.omnix_middleware.report.report_service.repositories;
 
-import com.etechub.omnix_middleware.commons.middle_ware_commons.models.Report;
+import com.etechub.omnixmiddleware.middlewarecommons.models.Report;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
