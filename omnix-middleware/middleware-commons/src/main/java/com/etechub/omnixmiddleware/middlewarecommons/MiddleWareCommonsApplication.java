@@ -1,4 +1,4 @@
-package com.etechub.omnix_middleware.commons.middle_ware_commons;
+package com.etechub.omnixmiddleware.middlewarecommons;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

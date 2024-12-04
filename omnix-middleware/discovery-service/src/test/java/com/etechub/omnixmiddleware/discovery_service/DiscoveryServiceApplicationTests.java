@@ -1,10 +1,10 @@
-package com.etechub.omnixmiddleware.middlewarecommons;
+package com.etechub.omnixmiddleware.discovery_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiddleWareCommonsApplicationTests {
+class DiscoveryServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

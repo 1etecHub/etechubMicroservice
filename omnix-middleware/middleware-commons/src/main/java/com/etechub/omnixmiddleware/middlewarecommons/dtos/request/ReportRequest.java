@@ -1,4 +1,4 @@
-package com.etechub.omnix_middleware.commons.middle_ware_commons.dtos.request;
+package com.etechub.omnixmiddleware.middlewarecommons.dtos.request;
 
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

@@ -1,4 +1,4 @@
-package com.etechub.omnix_middleware.commons.middle_ware_commons.models;
+package com.etechub.omnixmiddleware.middlewarecommons.models;
 
 
 import jakarta.persistence.*;

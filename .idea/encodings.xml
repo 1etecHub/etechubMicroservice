@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/omnix-middleware/middle-ware-commons/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/omnix-middleware/middle-ware-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/omnix-middleware/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/omnix-middleware/api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/omnix-middleware/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/omnix-middleware/discovery-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/omnix-middleware/middleware-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/omnix-middleware/middleware-commons/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/omnix-middleware/report-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remit-one/remit-one-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remit-one/remit-one-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remit-one/report-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remit-one/report-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/remit-one/src/main/java" charset="UTF-8" />
   </component>
 </project>

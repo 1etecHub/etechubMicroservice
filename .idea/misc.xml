@@ -7,6 +7,12 @@
         <option value="$PROJECT_DIR$/remit-one/pom.xml" />
         <option value="$PROJECT_DIR$/omnix-middleware/report-service/pom.xml" />
         <option value="$PROJECT_DIR$/omnix-middleware/middle-ware-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/remit-one/remit-one-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/remit-one/report-service/pom.xml" />
+        <option value="$PROJECT_DIR$/omnix-middleware/middleware-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/omnix-middleware/pom.xml" />
+        <option value="$PROJECT_DIR$/omnix-middleware/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/omnix-middleware/api-gateway/pom.xml" />
       </list>
     </option>
   </component>

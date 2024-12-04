@@ -1,10 +1,10 @@
-package com.etechub.omnixmiddleware.middlewarecommons;
+package com.etechub.omnixmiddleware.api_gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiddleWareCommonsApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

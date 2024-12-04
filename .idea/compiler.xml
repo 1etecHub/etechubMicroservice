@@ -7,22 +7,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="report-service" />
-        <module name="middle-ware-commons" />
+        <module name="remit-one-commons" />
+        <module name="api-gateway" />
+        <module name="report-service (1) (com.etechub.omnix-middleware)" />
+        <module name="middleware-commons" />
+        <module name="discovery-service" />
+        <module name="report-service (2) (com.etechub.remit-one)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="remit-one" target="17" />
+      <module name="report-service" target="17" />
       <module name="report-service (1) (com.etechub.omnix-middleware.report)" target="17" />
       <module name="report-service (2) (com.etechub.remit-one.report)" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="middle-ware-commons" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="middleware-commons" options="-parameters" />
       <module name="remit-one" options="-parameters" />
+      <module name="remit-one-commons" options="-parameters" />
       <module name="report-service" options="-parameters" />
+      <module name="report-service (1) (com.etechub.omnix-middleware)" options="-parameters" />
       <module name="report-service (1) (com.etechub.omnix-middleware.report)" options="-parameters" />
+      <module name="report-service (2) (com.etechub.remit-one)" options="-parameters" />
       <module name="report-service (2) (com.etechub.remit-one.report)" options="-parameters" />
     </option>
   </component>
